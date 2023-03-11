@@ -1,6 +1,7 @@
 zn "%SYS"
 Do ##class(Security.Users).UnExpireUserPasswords("*")
-zpm "install zapm"
+;zpm "install zapm"
+zpm "load https://github.com/SergeyMi37/zapm.git"
 zapm "newdb appmsw-telestat"
 zapm "newdb webterminal"
 zapm "newdb apptools-admin"
