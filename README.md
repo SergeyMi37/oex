@@ -1,11 +1,5 @@
-![](LOGO.png)
 
-# ZBASH 
-
-> zbash, a non-interactive bash wrapper
-
-
-![https://img.shields.io/github/v/release/nickmitchko/zbash](https://img.shields.io/github/v/release/nickmitchko/zbash)
+# ZBASH - test
 
 ---
 
